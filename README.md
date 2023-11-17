@@ -2,7 +2,7 @@
 
 ## Update existing code for usability.
 
-Use the existing code and modify it for accessibility of end users with dsabilities.
+Use the existing code and modify it for accessibility of end users with disabilities.
 
 ## Acceptance Criteria
 
