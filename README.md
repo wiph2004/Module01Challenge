@@ -1,10 +1,10 @@
-## Module 01 Challenge
+# Module 01 Challenge
 
-#Update existing code for usability.
+##Update existing code for usability.
 
 Use the existing code and modify it for accessibility of end users with dsabilities.
 
-#Acceptance Criteria
+##Acceptance Criteria
 
 Project is finished when all tags have been made specific
 
@@ -12,5 +12,5 @@ Project is finished when all images have alt text
 
 Project is finised when CSS element classes have been converted to element modifers where needed.
 
-#Credits
+##Credits
 John Lynch - professor
